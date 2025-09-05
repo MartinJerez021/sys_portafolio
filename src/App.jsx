@@ -1,9 +1,8 @@
 import React from "react";
+import Menu from "./Menu.jsx";
 function App() {
   return (
-    <>
-      <h1>Este va a ser el portafolio de martin jerez</h1>
-    </>
+      <Menu/>
   );
 }
 
